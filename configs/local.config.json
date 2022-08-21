@@ -1,0 +1,9 @@
+{
+    "ServerName": "local",
+    "_Local_Port_": 3056,
+    "Database": {
+        "uri":"mongodb+srv://mongomirror:w3AM2szFOMYeAdjZ@dms-staging.crmxb.mongodb.net/dmsHybrid?authSource=admin&replicaset=atlas-xqe42a-shard-0"
+            }
+   
+    
+}

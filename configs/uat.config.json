@@ -1,0 +1,7 @@
+{
+    "ServerName": "uat",
+    "_Local_Port_": 3056,
+    "Database": {
+        "uri":"mongodb+srv://saurabh:saurabh@cluster0.lrdmlfp.mongodb.net/skydata?retryWrites=true&w=majority"
+            }
+}
